@@ -9,7 +9,7 @@
 
 💻 Estudante de Ciência de Dados<br>
 🎓 Estudante de Administração<br>
-🐍 Focado em Python e SQL<br>
+🐍 Focado em Python, SQL, Análise de Dados, Machine Learning <br>
 📊 Desenvolvendo conhecimentos em Análise de Dados e Ciência de Dados<br>
 🚀 Em constante evolução e aprendizado na área de Dados<br>
 

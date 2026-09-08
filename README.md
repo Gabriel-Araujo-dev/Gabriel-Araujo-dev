@@ -11,7 +11,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-5DADE2?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-💻 Cientista de Dados em formação<br>
+💻 Cientista de Dados <br>
 🎓 Estudante de Administração<br>
 🐍 Python | Pandas | NumPy | Scikit-learn<br>
 🗄️ SQL | SQLite<br>
